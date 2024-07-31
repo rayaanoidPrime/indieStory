@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+Pillow
+torch
+torchaudio
+numpy
+nltk
+soundfile
+TTS
+python-multipart
+pydantic-settings

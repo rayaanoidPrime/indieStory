@@ -1,0 +1,49 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+myenv/
+env/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables
+.env
+indieStory\.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Dependencies
+pip-lock.txt
+
+# Miscellaneous
+*.bak
+*.tmp
+
+frontend/node_modules
+backend/node_modules
+
